@@ -1,0 +1,12 @@
+Generatywna siec neuronowa
+
+Gaussian mixionmodel.
+Gaussa dopasujemy do danych
+3 klasy w 4 wymiarowej przestrzeni
+Rozklad dla kazdej klasy.
+1 gauss 1 klasa.
+
+Na podstawie tych 2 (Gaussian mix i naive bayes) dogenerowac nowe dane.
+Rozklad EMax gaussowski.
+
+Przetestuj gaussian na svm (vienne)
